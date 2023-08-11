@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 🌱 I’m currently learning in IITU
+## 🌱 I’m currently studying in IITU
 # inst: <a href="https://www.instagram.com/nazarbekuly7/">nazarbekuly7</a> 
 <!--
 **nazarbekuly7/nazarbekuly7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
